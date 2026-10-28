@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=28&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Yelim+Lee+%F0%9F%91%8B;AI+Agents+%C2%B7+AI+Systems;Blockchain+Security" alt="Hi, I'm Yelim Lee" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Yelim+Lee+%F0%9F%91%8B;AI+Agents+%C2%B7+AI+Systems;Blockchain+Security" alt="Hi, I'm Yelim Lee" />
 
 <br />
 
