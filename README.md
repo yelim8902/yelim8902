@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,100:FBCFE8&height=200&section=header&text=Hi%2C%20I'm%20Yelim%20Lee%20%F0%9F%A6%8A%F0%9F%8D%B0&fontSize=40&fontColor=1E3A8A&fontAlignY=38&animation=twinkling" width="100%" alt="Hi, I'm Yelim Lee" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,100:FBCFE8&height=120&section=header" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=AI+Agents+%C2%B7+AI+Systems;Blockchain+Security;Building+tech+people+can+trust" alt="AI Agents · AI Systems · Blockchain Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Yelim+Lee+%F0%9F%A6%8A%F0%9F%8D%B0;AI+Agents+%C2%B7+AI+Systems;Blockchain+Security" alt="Hi, I'm Yelim Lee" />
 
 <br />
 
