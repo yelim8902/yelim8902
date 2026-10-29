@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://yelim8902.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Homepage-yelim8902.github.io-6CB4EE?style=flat-square&logo=githubpages&logoColor=white" /></a> <a href="mailto:yelim2849@gmail.com"><img src="https://img.shields.io/badge/Gmail-yelim2849@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yelim-lee-80899a305/"><img src="https://img.shields.io/badge/LinkedIn-Yelim_Lee-0A66C2?style=flat-square" /></a> <a href="https://zingangyyy.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-000000?style=flat-square&logo=tistory&logoColor=white" /></a>
+<a href="https://yelim8902.github.io/"><img src="https://img.shields.io/badge/Homepage-yelim8902.github.io-6CB4EE?style=flat-square&logo=githubpages&logoColor=white" /></a> <a href="mailto:yelim2849@gmail.com"><img src="https://img.shields.io/badge/Gmail-yelim2849@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yelim-lee-80899a305/"><img src="https://img.shields.io/badge/LinkedIn-Yelim_Lee-0A66C2?style=flat-square" /></a> <a href="https://zingangyyy.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-000000?style=flat-square&logo=tistory&logoColor=white" /></a>
 
 </div>
 
